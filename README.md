@@ -18,6 +18,8 @@ This work achived by `shiny apps`.
 
 ![Output sample](https://github.com/suedez/Repository-for-Display/blob/master/Food%20Recognition%20App/Foodie%20Demo.gif)
 
+This work achived by `Xcode` and `Food101 coreML model`
+
 
 
 
