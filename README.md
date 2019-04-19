@@ -12,6 +12,8 @@ https://suedez.shinyapps.io/laep/
 
 This work achived by `shiny apps`.
 
+See source code at https://github.com/suedez/biostat-m280-2019-winter/tree/master/hw3/LAep
+
 ## Food Recognition App
 
 **Demo**
