@@ -22,6 +22,10 @@ See source code at https://github.com/suedez/biostat-m280-2019-winter/tree/maste
 
 This work achived by `Xcode` and `Food101 coreML model`
 
+See source code at https://github.com/suedez/biostatm280-winter2019-hw4-1/tree/master/Foodie
+
+
+
 
 
 
